@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Christmas wreaths will bring festive cheer to your home. Hang Christmas wreaths and winter garlands to welcome the season of joy.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.onlywreaths.co.uk" # the base hostname & protocol for your site
+main_url: "https://onlywreaths.co.uk"
 twitter_username: a1craftlimited
 github_username:  jekyll
 meta_keywords: Wreaths, wire wreaths, natural wreaths &amp; willow wreaths
