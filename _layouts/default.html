@@ -5,6 +5,7 @@
 
   <body>
 
+    <!-- Body Inner -->
     <div class="body-inner">
       {% include header.html %}
 
@@ -16,6 +17,18 @@
 
       {% include footer.html %}
     </div>
+    <!-- end: Body Inner -->
+    <!-- Scroll top -->
+    <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+    <!--Plugins-->
+    <script src="{{ "/js/jquery.js" | prepend: site.main_url }}"></script>
+    <script src="{{ "/js/plugins.js" | prepend: site.main_url }}"></script>
+    <!--Template functions-->
+    <script src="{{ "/js/functions.js" | prepend: site.main_url }}"></script>
+	
+	  <script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"></script>
+	  <div hidden id="snipcart" data-api-key="MWMxNGVhYTgtMmJkZi00YTgzLWJiZTAtZTZmOTQ3YmRiMTlkNjM3NzE4NDc5MDIwMDc0MzI5"></div>
+	
   </body>
 
 </html>
