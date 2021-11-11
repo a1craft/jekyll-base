@@ -7,7 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.onlywreaths.co.uk" # the base hostname & protocol for your site
 main_url: "https://onlywreaths.co.uk"
 twitter_username: a1craftlimited
-github_username:  jekyll
 meta_keywords: Wreaths, wire wreaths, natural wreaths &amp; willow wreaths
 
 # Build settings
